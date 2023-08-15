@@ -12,7 +12,6 @@ namespace FigureLibTests
         {
             Circle circle = new Circle(5);
             double expectedArea = Math.PI * 25;
-            //double result = circle.GetArea(), 2
             Assert.AreEqual(expectedArea, circle.GetArea());
         }
 

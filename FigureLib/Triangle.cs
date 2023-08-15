@@ -12,9 +12,6 @@ namespace FigureLib
             SideA = sideA;
             SideB = sideB;
             SideC = sideC;
-
-            //if (Math.Pow(sideA, 2) + Math.Pow(sideB, 2) == Math.Pow(sideC, 2))
-            //    Console.WriteLine("Triangle is rectangular");
         }
         public double GetArea()
         {

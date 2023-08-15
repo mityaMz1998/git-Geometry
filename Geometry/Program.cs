@@ -14,13 +14,13 @@ namespace Geometry
             Console.Write("Input side c:");
             double c = double.Parse(Console.ReadLine());
 
-            Figure triangle = new Triangle(a, b, c);
+            IShape triangle = new Triangle(a, b, c);
             Console.WriteLine($"The area of triangle is: {triangle.GetArea()}");
 
             Console.Write("Input side radius:");
             double r = double.Parse(Console.ReadLine());
 
-            Figure circle = new Circle(r);
+            IShape circle = new Circle(r);
             Console.WriteLine($"The area of circle is: {circle.GetArea()}");
         }
     }
