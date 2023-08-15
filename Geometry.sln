@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{40B4C9A8
 		C:\Users\Lenovo\Documents\SQL Server Management Studio\SQLProductCategories.sql = C:\Users\Lenovo\Documents\SQL Server Management Studio\SQLProductCategories.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibTests", "FigureLibTests\FigureLibTests.csproj", "{60F0B6ED-8937-43D1-BEED-3C7192054A72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{28027F9E-38B9-47CD-A6E5-63606FAA3D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28027F9E-38B9-47CD-A6E5-63606FAA3D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28027F9E-38B9-47CD-A6E5-63606FAA3D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F0B6ED-8937-43D1-BEED-3C7192054A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F0B6ED-8937-43D1-BEED-3C7192054A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F0B6ED-8937-43D1-BEED-3C7192054A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F0B6ED-8937-43D1-BEED-3C7192054A72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

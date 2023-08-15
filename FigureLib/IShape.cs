@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FigureLib
 {
-    internal interface IShape
+    public interface IShape
     {
+        double GetArea();
     }
 }
